@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Scienntist's Tool Box Assignment
+Data Scientist's Tool Box Assignment
